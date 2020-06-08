@@ -1,6 +1,6 @@
 using System;
 
-namespace mvcapicall.Models
+namespace MvcApiCall.Models
 {
     public class ErrorViewModel
     {
